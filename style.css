@@ -1,0 +1,8 @@
+*{
+    outline: 1px solid #f00 !important;
+    }
+
+.container{
+    display:flex;
+    align-items: center;
+}
